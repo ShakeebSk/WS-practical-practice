@@ -15,7 +15,11 @@ SOAP Web Services – Practical
 8.  To consume a public SOAP weather API and display temperature details.
  
 the Files With the name like extra-pract-server/client.php are the extra question
+
+
 Extra SOAP Practical Aims
+
+
 1: To implement a SOAP web service that returns simple interest based on principal, rate, and time.
 2: To design a SOAP service for converting temperature from Celsius to Fahrenheit.
 3: To create a SOAP-based calculator service that performs addition, subtraction, multiplication, and division.
