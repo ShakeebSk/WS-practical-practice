@@ -2,7 +2,7 @@
 ini_set('display_error',0); 
 error_reporting(0); 
 class wheatherapp{ 
-    private $apiKey='Your API key here'; //Replace with your OpenWeatherMap API key
+    private $apiKey='d24ccf53375319209e043abd8c80c4e5'; //Replace with your OpenWeatherMap API key
     public function getTemperature($city){
     $city=trim($city); 
         if(!$city){ 
